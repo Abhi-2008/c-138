@@ -1,0 +1,18 @@
+.heading {
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3 {
+    display: inline;
+}
+
+#start,
+#status {
+    font-size: 22px;
+    margin-top: 10px;
+}
+
+.big_image {
+    width: 100%;
+}
